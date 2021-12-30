@@ -29,7 +29,7 @@
 <a href="https://reactjs.org" title="React">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
-<a href="https://redux.js.org" title="Redex">
+<a href="https://redux.js.org" title="Redux">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
 <a href="https://d3js.org" title="D3.js">
