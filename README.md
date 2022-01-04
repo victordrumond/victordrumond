@@ -38,6 +38,9 @@
 <a href="https://nodejs.org/en" title="Node.js">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
 </a>
+<a href="https://expressjs.com" title="Express.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+</a>
 <a href="https://www.mongodb.com" title="MongoDB">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </a>
