@@ -44,8 +44,17 @@
 <a href="https://www.mongodb.com" title="MongoDB">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </a>
+<a href="https://mongoosejs.com" title="Mongoose">
+  <img src="https://avatars.githubusercontent.com/u/7552965" alt="mongoose" width="40" height="40"/>
+</a>
 <a href="https://git-scm.com" title="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.npmjs.com" title="npm">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+</a>
+<a href="https://yarnpkg.com" title="Yarn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
 </a>
 
 ## Some Stats
