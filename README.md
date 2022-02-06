@@ -2,7 +2,7 @@
 
 ## About Me
 
-* 🤓 My name is Victor and I'm a software engineer from Belo Horizonte, Brazil.
+* 🤓 My name is Victor and I'm a Software Developer from Belo Horizonte, Brazil.
 * 📚 I'm currently learning Node.js and improving my React skills. In the recent past I've been learning and practicing the technologies listed below. You can see my projects in my [portfolio](https://victordrumond.github.io/portfolio/).
 * 📫 Feel free to contact me at victordrumond@hotmail.com. You can also reach me on [LinkedIn](https://www.linkedin.com/in/victordmds/).
 
