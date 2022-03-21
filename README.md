@@ -17,6 +17,9 @@
 <a href="https://developer.mozilla.org/en/javascript" title="JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
+<a href="https://www.typescriptlang.org" title="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
 <a href="https://getbootstrap.com" title="Bootstrap">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 </a>
@@ -46,6 +49,9 @@
 </a>
 <a href="https://mongoosejs.com" title="Mongoose">
   <img src="https://avatars.githubusercontent.com/u/7552965" alt="mongoose" width="40" height="40"/>
+</a>
+<a href="https://developers.google.com/apps-script" title="Google Apps Script">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/640px-Google_Apps_Script.svg.png" alt="googleappsscript" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com" title="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
